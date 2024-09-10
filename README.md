@@ -1,1 +1,1 @@
-this is a Mern project
+mern-project
